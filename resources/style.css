@@ -36,6 +36,10 @@ section h3 {
   text-align: center;
 }
 
+section p {
+  text-align: center;
+}
+
 #about p {
   font-size: 14px;
   text-align: center;
@@ -50,7 +54,7 @@ section h3 {
 }
 
 footer {
-  text-align: right;
+  text-align: left;
   font-size: 11px;
   color: white;
   background-color: dimgray;

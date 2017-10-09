@@ -13,6 +13,10 @@ header h1 {
   text-align: center;
 }
 
+ul {
+  padding-left: 0px;
+}
+
 header li {
   list-style-type: none;
   text-align: center;

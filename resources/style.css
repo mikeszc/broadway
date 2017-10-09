@@ -13,6 +13,10 @@ header h1 {
   color: white;
 }
 
+header li {
+  list-style-type: none;
+}
+
 li a {
   font-size: 18px;
   color: white;
@@ -30,4 +34,18 @@ section h3 {
 
 #about p {
   font-size: 14px;
+}
+
+#design {
+  background-image: url("./images/the-flatiron-building.png");
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+footer {
+  text-align: right;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
 }
